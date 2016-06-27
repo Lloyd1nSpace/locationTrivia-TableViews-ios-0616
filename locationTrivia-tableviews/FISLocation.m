@@ -20,7 +20,9 @@
         _latitude = latitude;
         _longitude = longitude;
         _trivia = [[NSMutableArray alloc] init];
+    
     }
+    
     return self;
 }
 
